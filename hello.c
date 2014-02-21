@@ -2,5 +2,5 @@
 
 int main() {
   printf("Hello, World!\n");
-  return 0; // Sample comment.
+  return 0; /* Sample comment. */
 } 
